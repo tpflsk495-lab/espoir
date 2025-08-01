@@ -120,7 +120,7 @@ h2{font-family: "Gloock", serif; font-size: 6.5rem; color: #ce0e2d; text-transfo
 
 @media (max-width:1000px) {
     #footer .footer_list{flex-wrap: wrap;}
-    #footer .icon{padding-top: 20px;}
+    
     #footer .footer_list{grid-template-columns: auto auto auto;}
 }
 @media (max-width:800px) {
